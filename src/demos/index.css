@@ -1,0 +1,8 @@
+.demo-dom {
+  background-color: #ccc;
+  width: 69px;
+}
+
+.demo-dom-active {
+  width: 240px !important;
+}
